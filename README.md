@@ -11,6 +11,9 @@ Staff Data Engineer from Buenos Aires, focused on data platform architecture and
 - **Eximio**: family finance app in production, with a Claude-powered agent that turns receipts and bank statements into transactions.
 - **Primathes**: my band's site, plus a little endless-runner game.
 
+### Open source
+- **[zigmo](https://github.com/unprimathe/zigmo)**: a semantic-layer engine for business metrics, exposed as an MCP server. One meaning per metric, guardrails by default, evals in CI.
+
 Most of my code lives in private repos. Happy to walk you through it.
 
 📫 [LinkedIn](https://www.linkedin.com/in/rolandsencial) · [nxape.dev](https://nxape.dev)
